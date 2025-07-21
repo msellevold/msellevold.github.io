@@ -1,0 +1,13 @@
+#+TITLE: Tickets
+#+AUTHOR: Marius Bull Sellevold
+#+OPTIONS: toc:nil date:nil
+
+This page contains all relevant tickets for the trip to Amsterdam.
+
+| *Event*             | *George* | *Henrik* | *Jacob* | *Marius* | *All*   |
+|---------------------+----------+----------+---------+----------+---------|
+| Heineken Experience | [[file:heineken_tickets/George_encrypted.pdf][Ticket]]   | [[file:heineken_tickets/Henrik_encrypted.pdf][Ticket]]   | [[file:heineken_tickets/Jacob_encrypted.pdf][Ticket]]  | [[file:heineken_tickets/Marius_encrypted.pdf][Ticket]]   | n.a.    |
+|---------------------+----------+----------+---------+----------+---------|
+| Rijksmuseum         | n.a.     | n.a.     | n.a.    | n.a.     | [[file:rijksmuseum_tickets/tickets_encrypted.pdf][Tickets]] |
+|---------------------+----------+----------+---------+----------+---------|
+| Van Gogh Museum     | n.a.     | n.a.     | n.a.    | n.a.     | [[file:vangogh_tickets/tickets_encrypted.pdf][Tickets]] |

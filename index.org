@@ -5,4 +5,4 @@
 This page includes information related to the trip to Amsterdam, summer 2025.
 
 - [[file:itinerary.html][Itinerary]]
-- [[file:pw_itinerary.pdf][Encrypted itinerary (test)]]
+- [[file:tickets.html][Tickets]]
