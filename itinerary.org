@@ -1,0 +1,22 @@
+#+TITLE: Tentative Amsterdam Itinerary
+#+AUTHOR: Marius Bull Sellvold
+#+OPTIONS: toc:nil date:nil
+
+| *Day*            | *Morning* | *Afternoon*                          |
+|------------------+-----------+--------------------------------------|
+| Tuesday (22/7)   | Travel    | Heineken experience (1615 CET, [[https://www.heinekenexperience.com/en/discover-our-tours/rock-the-city][link]]) |
+|                  |           | Heineken boat ride (1800 CET)        |
+|------------------+-----------+--------------------------------------|
+| Wednesday (23/7) | TBD       | TBD                                  |
+|------------------+-----------+--------------------------------------|
+| Thursday (24/7)  | TBD       | Rijksmuseum (1200 CET, [[https://www.rijksmuseum.nl/en][link]])         |
+|------------------+-----------+--------------------------------------|
+| Friday (25/7)    | TBD       | Van Gogh museum (1915 CET, [[https://www.vangoghmuseum.nl/en][link]])     |
+|------------------+-----------+--------------------------------------|
+| Saturday (26/7)  | TBD       | Beach?                               |
+|------------------+-----------+--------------------------------------|
+| Sunday (27/7)    | TBD       | TBD                                  |
+|------------------+-----------+--------------------------------------|
+| Monday (28/7)    | TBD       | Travel                               |
+
+/Note: Suggested time slots are subject to availability/
